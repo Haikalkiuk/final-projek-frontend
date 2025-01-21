@@ -13,7 +13,7 @@ export default function Header() {
                 /><link/></button>
                 <div className="flex gap-5 justify-between my-auto">
                    <button> <link rel="stylesheet" href="src/app/artispage/page.js" ><div className="justify-center" >Explore</div> <link/></button>
-                   <button> <div className="justify-center">Partnership</div></button>
+                    <button> <div className="justify-center">Partnership</div></button>
                 </div>
             </div>
             <div className="flex gap-5 self-start pl-20 text-sm max-md:flex-wrap">
